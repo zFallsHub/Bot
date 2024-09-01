@@ -1,0 +1,24 @@
+{
+    "client": {
+        "token": "MTI3OTgzNzg0MDYyNDA2MjQ2NA.Gwo5gL.Ol7ZAnTyUfCHJ9Z7oCpX6s4NsHsYGOb4Taz5Vc"
+    },
+    "embeds_color": {
+        "embed_primary": "#02012e",
+        "embed_invisible": "#02012e",
+        "embed_success": "#02012e",
+        "embed_error": "#02012e"
+    },
+    "ticket": {
+        "category_id": "1279838329726308472",
+        "category_call_id": "1275939668042580063",
+        "support_role": "1279838386630426634",
+        "channel_logs": "1279838800180416644",
+        "thumbnail":"https://media2.giphy.com/media/y8jGEUOYzCEnjDAdf1/giphy.gif?cid=6c09b952k85hbddi1mpocu7j6w90p10v4kmfhysz6o80o3kg&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s",
+        "credits":"Contribuição da StylePvp"
+    },
+    "sales": {
+        "pix": "",
+        "qrcode": "",
+        "name": ""
+    }
+}
